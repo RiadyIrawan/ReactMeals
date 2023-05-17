@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactMeals/static/css/main.311d0e1b.css",
+    "main.js": "/ReactMeals/static/js/main.895fbf61.js",
+    "static/media/giovanna-gomes-on2t2s6qkj4-unsplash.jpg": "/ReactMeals/static/media/giovanna-gomes-on2t2s6qkj4-unsplash.dc2b404e3729ddb0d15a.jpg",
+    "static/media/r-eris-prayatama-o6Oq7rBMqVc-unsplash.jpg": "/ReactMeals/static/media/r-eris-prayatama-o6Oq7rBMqVc-unsplash.dae9b5fd57636255faff.jpg",
+    "static/media/pexels-polina-tankilevitch-4518843.jpg": "/ReactMeals/static/media/pexels-polina-tankilevitch-4518843.5326ea13af4a3830b899.jpg",
+    "static/media/schnitzel-gaa1d34bcb_1920.jpg": "/ReactMeals/static/media/schnitzel-gaa1d34bcb_1920.655c2368b70280e3598e.jpg",
+    "index.html": "/ReactMeals/index.html",
+    "main.311d0e1b.css.map": "/ReactMeals/static/css/main.311d0e1b.css.map",
+    "main.895fbf61.js.map": "/ReactMeals/static/js/main.895fbf61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.311d0e1b.css",
+    "static/js/main.895fbf61.js"
+  ]
+}
